@@ -3,49 +3,49 @@ canvas: "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00144/full
 order: 2
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Frderich Pfaltzgraf von hohen vern,\nder was an der manhait ein kern,\nmit seinen vil siglichen hanndt,\nseine veint manlich er uberwandt.\n\nIn got ain wirdiger gottes knecht,\nzu koln Bischof Ruprecht,\nauch von der Pfalz entsprungen ist\nals man es in der cronickh list.",
-            "purpose": "editing",
-            "creator": {
-                "id": "Bennitorn",
-                "name": "Bennitorn"
-            },
             "created": "2023-05-24T07:38:31.328Z",
-            "modified": "2023-05-24T07:41:04.574Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "Friedrich I. \"der Siegreiche\"; Kurf\u00fcrst, Pfalzgraf bei Rhein, 1425-1476 | 118693514",
             "creator": {
                 "id": "Bennitorn",
                 "name": "Bennitorn"
             },
-            "created": "2023-05-24T07:41:17.509Z"
+            "modified": "2023-05-24T07:46:59.500Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "Frderich Pfaltzgraf von hohen vern,\nder was an der manhait ein kern,\nmit seinen vil siglichen hanndt,\nseine veint manlich er uberwandt.\n\nIn got ain wirdiger gottes knecht,\nzu koln Bischof Ruprecht,\nauch von der Pfalz entsprungen ist\nals man es in der cronickh list."
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "K\u00f6ln, Ruprecht, von der Pfalz; Erzbischof, 1427-1480 | 12388957X",
+            "created": "2023-05-24T07:41:17.509Z",
             "creator": {
                 "id": "Bennitorn",
                 "name": "Bennitorn"
             },
-            "created": "2023-05-24T07:42:10.390Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "Friedrich I. \"der Siegreiche\"; Kurf\u00fcrst, Pfalzgraf bei Rhein, 1425-1476 | 118693514"
+        },
+        {
+            "created": "2023-05-24T07:42:10.390Z",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "K\u00f6ln, Ruprecht, von der Pfalz; Erzbischof, 1427-1480 | 12388957X"
         }
     ],
-    "target": {
-        "source": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00144/full/full/0/default.jpg",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=222.56431579589844,289.9857177734375,2905.3285064697266,705.8142700195312"
-        }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "95c47c05-654f-45c1-8ebe-26783ef44d68.json",
-    "motivation": "commenting"
+    "motivation": "commenting",
+    "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=222.56431579589844,289.9857177734375,2905.3285064697266,705.8142700195312"
+        },
+        "source": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00144/full/full/0/default.jpg"
+    },
+    "type": "Annotation"
 }
