@@ -1,0 +1,42 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00144/full/full/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Friedrich I. \"der Siegreiche\"; Kurf\u00fcrst, Pfalzgraf bei Rhein, 1425-1476 | 118693514",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T07:31:36.478Z",
+            "modified": "2023-05-24T07:33:38.675Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Abbildung in den Abbildungen aus dem Regentenhaus Pfalzbayern, 16. Jh., M\u00fcnchen BSB Cgm 1604, fol. 62r",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T07:33:50.393Z",
+            "modified": "2023-05-24T07:35:00.880Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00144/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=-1.764255166053772,1171.398681640625,1641.4285618066788,3162.485595703125"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1a24c095-c69f-48d9-9629-f4d023eac566.json",
+    "motivation": "commenting"
+}
