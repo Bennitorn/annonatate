@@ -1,5 +1,11 @@
 images:
-- 
+- added: '2023-05-24 07:48:01.833486'
+  iiif: false
+  thumbnail: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00146/full/full/0/default.jpg
+  title: ''
+  url: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00146/full/full/0/default.jpg
+- null
+manifests: []
 settings:
   tempuser: notenabled
   viewer: default
