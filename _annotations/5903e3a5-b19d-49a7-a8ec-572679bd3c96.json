@@ -1,0 +1,42 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00146/full/full/0/default.jpg"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Abbildung Rudolfs I. von der Pfalz",
+            "purpose": "describing",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T07:54:05.555Z",
+            "modified": "2023-05-24T07:58:18.507Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Pfalz, Rudolf I.; Pfalzgraf, 1274-1319 |118814230",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T07:58:34.302Z",
+            "modified": "2023-05-24T07:58:53.735Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00146/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1562.12158203125,1127.1142578125,1526.528564453125,3184.37109375"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5903e3a5-b19d-49a7-a8ec-572679bd3c96.json",
+    "motivation": "commenting"
+}
