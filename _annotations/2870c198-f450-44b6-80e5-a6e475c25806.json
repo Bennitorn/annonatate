@@ -1,0 +1,41 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00188/full/full/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Philipp der Aufrichtige; Pfalzgraf bei Rhein, Kurf\u00fcrst, 1448-1508 | 119557843",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T08:11:49.081Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Abbildung Philipps",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T08:11:55.105Z",
+            "modified": "2023-05-24T08:11:57.842Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00188/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=180.4149627685547,1347.0477294921875,1721.1806182861328,3046.0010986328125"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2870c198-f450-44b6-80e5-a6e475c25806.json",
+    "motivation": "commenting"
+}
