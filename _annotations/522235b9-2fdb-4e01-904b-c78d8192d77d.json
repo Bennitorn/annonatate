@@ -1,0 +1,30 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00196/full/full/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Abbildungen aus dem Regentenhaus Pfalzbayern, 16. Jh., M\u00fcnchen BSB Cgm 1604, fol. 81r.",
+            "purpose": "linking",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T08:32:06.916Z",
+            "modified": "2023-05-24T08:32:09.945Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00196/full/full/0/default.jpg",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"3198.171142578125\" cy=\"155.77142333984375\" r=\"148.29912973105132\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "522235b9-2fdb-4e01-904b-c78d8192d77d.json",
+    "motivation": "commenting"
+}
