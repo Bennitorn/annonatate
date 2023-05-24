@@ -1,0 +1,51 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00188/full/full/0/default.jpg"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Philippus Pfaltzgraf von dem Rein,\nund Herzog in Bayern ist hie schein,\nCurfurst des heillign R\u00f6mischn Reich,\nals man zelt 1508 jar gestorben gleich,\nzu Haidlberg er heischt gwaltigkleich.\n\nLudwig Pfalzgraff bei dem Rein,\nunnd hertzog in BAyern fein,\ndiser furst zu Lanndshut war,\nals man zalt 14[50-1479] jar.",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T08:15:19.067Z",
+            "modified": "2023-05-24T08:17:55.144Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Philipp der Aufrichtige; Pfalzgraf bei Rhein, Kurf\u00fcrst, 1448-1508 | 119557843",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T08:18:01.434Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Bayern-Landshut, Ludwig IX., gen. der Reiche; Herzog, 1417-1479 | 119398613",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-05-24T08:18:13.185Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00188/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=212.9925079345703,363.78265380859375,3181.7408905029297,809.0092163085938"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "27840316-5b69-4a07-aa44-0c0c44cf8279.json",
+    "motivation": "commenting"
+}
