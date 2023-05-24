@@ -1,4 +1,9 @@
 images:
+- added: '2023-05-24 08:22:10.969161'
+  iiif: false
+  thumbnail: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00190/full/full/0/default.jpg
+  title: ''
+  url: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00190/full/full/0/default.jpg
 - added: '2023-05-24 08:11:18.378642'
   iiif: false
   thumbnail: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00188/full/full/0/default.jpg
