@@ -18,13 +18,13 @@ order: 1
         {
             "type": "TextualBody",
             "value": "Abbildung Philipps",
-            "purpose": "commenting",
+            "purpose": "describing",
             "creator": {
                 "id": "Bennitorn",
                 "name": "Bennitorn"
             },
             "created": "2023-05-24T08:11:55.105Z",
-            "modified": "2023-05-24T08:11:57.842Z"
+            "modified": "2023-05-24T08:13:48.867Z"
         }
     ],
     "target": {
