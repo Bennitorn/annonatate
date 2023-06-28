@@ -1,0 +1,35 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/135"
+order: 7
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Stefan von Pfalz-Simmern-Zweibr\u00fccken",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-28T14:08:32.026Z",
+            "modified": "2023-06-28T14:08:43.634Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/135",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=11139.142578125,1209.105224609375,1309.23828125,3439.405029296875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bennitorn.github.io/annonatate/manifests/v2/bsb00074191/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "af701ca2-cc75-448b-99d9-bc0581d7a70d.json",
+    "motivation": "commenting"
+}
