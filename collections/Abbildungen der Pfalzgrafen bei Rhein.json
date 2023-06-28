@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Abbildungen der Pfalzgrafen bei Rhein",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://bennitorn.github.io/annonatate/annotations/v2-bsb00074191-144-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
