@@ -7,14 +7,14 @@ order: 1
     "body": [
         {
             "type": "TextualBody",
-            "value": "Ernst, Herzog von Bayern-M\u00fcnchen (?)",
+            "value": "Ernst, Herzog von Bayern-M\u00fcnchen",
             "purpose": "commenting",
             "creator": {
                 "id": "Bennitorn",
                 "name": "Bennitorn"
             },
             "created": "2023-06-28T14:12:03.371Z",
-            "modified": "2023-06-28T14:12:30.890Z"
+            "modified": "2023-06-28T14:13:29.642Z"
         }
     ],
     "target": {
