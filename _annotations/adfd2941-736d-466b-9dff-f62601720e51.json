@@ -7,14 +7,14 @@ order: 1
     "body": [
         {
             "type": "TextualBody",
-            "value": "Heinrich \"der Reiche\" von Bayern-Landshut",
+            "value": "Heinrich \"der Reiche\" von Bayern-Landshut mit G\u00fcrteltasche und Dolch",
             "purpose": "describing",
             "creator": {
                 "id": "Bennitorn",
                 "name": "Bennitorn"
             },
             "created": "2023-06-28T14:39:09.988Z",
-            "modified": "2023-06-28T14:39:30.772Z"
+            "modified": "2023-06-28T14:40:33.551Z"
         }
     ],
     "target": {
