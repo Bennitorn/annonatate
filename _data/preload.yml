@@ -1,9 +1,4 @@
 images:
-- added: '2023-06-28 09:06:11.837015'
-  iiif: true
-  thumbnail: ''
-  title: ''
-  url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/manifest
 - added: '2023-05-24 08:27:33.978182'
   iiif: false
   thumbnail: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00074191_00196/full/full/0/default.jpg
