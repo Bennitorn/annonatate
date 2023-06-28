@@ -1,0 +1,45 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/135"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ruprecht II., Pfalzgraf",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-28T14:05:24.378Z",
+            "modified": "2023-06-28T14:05:28.673Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Pfalzgraf",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-28T14:05:37.097Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/135",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=254.77064514160156,1018.0271606445312,1684.317611694336,3333.2501831054688"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bennitorn.github.io/annonatate/manifests/v2/bsb00074191/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b39427cb-e363-4c1f-84e4-594269401a52.json",
+    "motivation": "commenting"
+}
