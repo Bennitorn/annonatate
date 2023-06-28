@@ -1,0 +1,35 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/140"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ernst, Herzog von Bayern-M\u00fcnchen (?)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-28T14:12:03.371Z",
+            "modified": "2023-06-28T14:12:30.890Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/140",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=43.740196228027344,906.3358764648438,1496.9160537719727,3163.4046020507812"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bennitorn.github.io/annonatate/manifests/v2/bsb00074191/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6c0ea17a-9aa8-4eaf-a277-9b4dd8ad147e.json",
+    "motivation": "commenting"
+}
