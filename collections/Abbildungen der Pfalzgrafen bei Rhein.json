@@ -3,5 +3,12 @@
 {
     "label": "Abbildungen der Pfalzgrafen bei Rhein",
     "type": "storyboardlist",
-    "items": []
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://bennitorn.github.io/annonatate/annotations/596d4ae7-cda4-495b-86c7-808fa2410e3e.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
 }
