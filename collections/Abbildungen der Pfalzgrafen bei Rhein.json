@@ -15,6 +15,12 @@
             "title": "",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://bennitorn.github.io/annonatate/annotations/ef57c1f0-a28e-45c0-822a-1fceaf59ceef.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
