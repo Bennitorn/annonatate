@@ -3,30 +3,5 @@
 {
     "label": "Pfalzgrafen bei Rhein 1449-1508",
     "type": "storyboardlist",
-    "items": [
-        {
-            "board": "<iiif-annotation annotationurl='https://bennitorn.github.io/annonatate/annotations/v2-bsb00074191-00144-0-list.json'></iiif-annotation>",
-            "title": "",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
-            "board": "<iiif-annotation annotationurl='https://bennitorn.github.io/annonatate/annotations/v2-bsb00074191-00146-0-list.json'></iiif-annotation>",
-            "title": "",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
-            "board": "<iiif-annotation annotationurl='https://bennitorn.github.io/annonatate/annotations/v2-bsb00074191-00188-0-list.json'></iiif-annotation>",
-            "title": "",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
-            "board": "<iiif-storyboard annotationurl='https://bennitorn.github.io/annonatate/annotations/v2-bsb00074191-144-list.json'></iiif-storyboard>",
-            "title": "",
-            "description": "",
-            "thumbnail": ""
-        }
-    ]
+    "items": []
 }
