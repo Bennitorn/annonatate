@@ -15,6 +15,17 @@ order: 1
             },
             "created": "2023-06-28T10:28:02.831Z",
             "modified": "2023-06-28T10:28:16.265Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Philipp der Aufrichtige in roter Kleidung und mit Schwert",
+            "purpose": "describing",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-28T10:30:08.923Z",
+            "modified": "2023-06-28T10:30:24.413Z"
         }
     ],
     "target": {
