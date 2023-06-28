@@ -15,6 +15,16 @@ order: 1
             },
             "created": "2023-06-28T14:01:26.433Z",
             "modified": "2023-06-28T14:01:32.889Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Pfalzgraf",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-28T14:02:49.609Z"
         }
     ],
     "target": {
