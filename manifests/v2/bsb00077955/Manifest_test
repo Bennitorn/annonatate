@@ -7,7 +7,7 @@ title: ''
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "https://bennitorn.github.io/annonatate/manifests/v2/bsb00074191/manifestTest.json",
+  "@id": "https://bennitorn.github.io/annonatate/manifests/v2/bsb00074191/manifest_test.json",
   "label": "CXCIV Abbildungen aus dem Regentenhaus Pfalzbayern mit Text in Prosa und Versen - BSB Cgm 1604",
   "metadata": [
     {
