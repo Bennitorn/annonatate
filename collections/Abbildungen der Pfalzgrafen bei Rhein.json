@@ -5,24 +5,6 @@
     "type": "storyboardlist",
     "items": [
         {
-            "board": "<iiif-multistoryboard annotationurl='https://bennitorn.github.io/annonatate/annotations/596d4ae7-cda4-495b-86c7-808fa2410e3e.json'></iiif-multistoryboard>",
-            "title": "Rudolf I.",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
-            "board": "<iiif-multistoryboard annotationurl='https://bennitorn.github.io/annonatate/annotations/ef57c1f0-a28e-45c0-822a-1fceaf59ceef.json'></iiif-multistoryboard>",
-            "title": "Friedrich I.",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
-            "board": "<iiif-multistoryboard annotationurl='https://bennitorn.github.io/annonatate/annotations/46c017af-ebf7-41e2-9061-dc503adce954.json'></iiif-multistoryboard>",
-            "title": "Philipp",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
             "board": "<iiif-annotation annotationurl='https://bennitorn.github.io/annonatate/annotations/03707ee4-68e4-4ad2-8819-9808800f2c85.json'></iiif-annotation>",
             "title": "K\u00f6nig Ruprecht",
             "description": "",
