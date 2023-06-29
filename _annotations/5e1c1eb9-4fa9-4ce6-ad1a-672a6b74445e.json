@@ -1,0 +1,35 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/193"
+order: 6
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Heinrich, Bischof, im Bischofsornat",
+            "purpose": "describing",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-29T11:54:55.704Z",
+            "modified": "2023-06-29T11:55:02.624Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/193",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=6690.71337890625,863.3507690429688,1629.97314453125,3279.5056762695312"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bennitorn.github.io/annonatate/manifests/v2/bsb00074191/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5e1c1eb9-4fa9-4ce6-ad1a-672a6b74445e.json",
+    "motivation": "commenting"
+}
