@@ -5411,7 +5411,52 @@ title: ''
           "@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/160",
           "@type": "sc:Canvas",
           "label": "(0160)",
-          "service": {
+          ---
+canvas: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/160"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "K\u00f6nig Ruprecht mit Krone \u00fcber einem Hut und Dolch",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-28T14:31:41.641Z",
+            "modified": "2023-06-28T14:31:49.842Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "K\u00f6nig (r\u00f6m.-dt.)",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-28T14:32:01.002Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/160",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1418.47705078125,951.271484375,1693.727294921875,3335.2509765625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bennitorn.github.io/annonatate/manifests/v2/bsb00074191/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "03707ee4-68e4-4ad2-8819-9808800f2c85.json",
+    "motivation": "commenting"
+},
+"service": {
             "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
             "physicalScale": 0.00653242890307603,
             "physicalUnits": "cm",
