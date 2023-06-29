@@ -9,6 +9,12 @@
             "title": "Rudolf I.",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-multistoryboard annotationurl='https://bennitorn.github.io/annonatate/annotations/ef57c1f0-a28e-45c0-822a-1fceaf59ceef.json'></iiif-multistoryboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
