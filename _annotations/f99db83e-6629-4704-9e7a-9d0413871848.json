@@ -1,0 +1,55 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/193"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Friedrich II., Pfalzgraf",
+            "purpose": "describing",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-29T11:52:40.097Z",
+            "modified": "2023-06-29T11:52:47.513Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Pfalzgraf",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-29T11:52:51.009Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Kurf\u00fcrst",
+            "creator": {
+                "id": "Bennitorn",
+                "name": "Bennitorn"
+            },
+            "created": "2023-06-29T11:52:53.161Z"
+        }
+    ],
+    "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/193",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1526.958740234375,837.2711791992188,1538.694580078125,3735.8982543945312"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bennitorn.github.io/annonatate/manifests/v2/bsb00074191/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f99db83e-6629-4704-9e7a-9d0413871848.json",
+    "motivation": "commenting"
+}
