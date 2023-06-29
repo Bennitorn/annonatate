@@ -21,6 +21,12 @@
             "title": "Philipp",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://bennitorn.github.io/annonatate/annotations/03707ee4-68e4-4ad2-8819-9808800f2c85.json'></iiif-annotation>",
+            "title": "K\u00f6nig Ruprecht",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
