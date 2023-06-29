@@ -5411,11 +5411,7 @@ title: ''
           "@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/160",
           "@type": "sc:Canvas",
           "label": "(0160)",
-          ---
-canvas: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074191/canvas/160"
-order: 2
----
-{
+       {
     "type": "Annotation",
     "body": [
         {
